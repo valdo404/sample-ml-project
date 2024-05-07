@@ -1,0 +1,12 @@
+pandas
+requests
+pytest
+fastparquet
+pyarrow
+category_encoders
+jupyter
+jupyterlab
+matplotlib
+seaborn
+ipython
+nbdime
